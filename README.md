@@ -1,9 +1,3 @@
 # mavericks_countdown
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-"# mavericks_countdown" 
+"A half decent useless app"
+it will automatically open mavericks.gg for you 5 seconds prior to the launch date
